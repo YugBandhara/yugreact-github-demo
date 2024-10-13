@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "test": "react-scripts test --env=jsdom",
     "lint": "eslint .",
     "preview": "vite preview"
   },
